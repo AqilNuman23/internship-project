@@ -1,0 +1,31 @@
+/* What We Do v3 */
+.primary-wwd {
+  font-family: "Lexend Deca";
+  margin: 0 auto;
+  font-size: 16px;
+  font-weight: 300;
+  color: black;
+}
+.container-wwd {
+  display: grid;
+  /* nak ubah row kecik ade berapa */
+  grid-template-columns: 1fr 1fr 1fr;
+  box-sizing: border-box;
+}
+.content-wwd {
+  margin: 20px 20px 20px 20px;
+  border: #71257f solid 2px;
+}
+.title-wwd {
+  background-color: #71257f;
+  margin: 0;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  /* border-radius: 10px 10px 0px 0px; */
+  font-size: 18px;
+  color: white;
+}
+.p-wwd {
+  padding: 10px 20px 0px 20px;
+  line-height: 23px;
+}

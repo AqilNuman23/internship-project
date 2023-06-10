@@ -1,0 +1,68 @@
+/* Contact Us v3 */
+.setup-contactus-hr {
+  font-family: "Lexend Deca";
+  font-weight: 400;
+  font-size: 16px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.header-cu-hr {
+  width: 44%;
+  padding-top: 10px;
+  float: right;
+  clear: both;
+  border-bottom: 1px solid;
+}
+.ptitle-cu-hr {
+  font-size: 20px;
+  font-weight: 600;
+  color: #71257f;
+  padding-left: 40px;
+}
+.pdetail-cu-hr {
+  padding-right: 80px;
+  line-height: 25px;
+  padding-left: 40px;
+}
+.img-header-cu-hr {
+  width: 45%;
+}
+.img-header-cu-hr > img {
+  position: absolute;
+  top: 55px;
+}
+.box-cu-hr {
+  width: 41%;
+  clear: both;
+  position: relative;
+  z-index: 1;
+  float: right;
+  padding-top: 10px;
+}
+.container-box-cuhr {
+  display: grid;
+  grid-template-columns: 150px 293px;
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 23px;
+}
+.img-cotentbox {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.content-box-cuhr > a {
+  text-decoration: none;
+  padding: 2px 20px;
+  border: #000 2px solid;
+  color: #000;
+  font-weight: 600;
+}
+.content-box-cuhr > a:hover {
+  border: #000 2px solid;
+  color: white;
+  background-color: #000;
+}

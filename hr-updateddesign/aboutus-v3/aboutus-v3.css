@@ -1,0 +1,89 @@
+/* About Us v3 */
+.primary-aboutUs {
+  font-family: "Lexend Deca";
+  font-size: 16px;
+  font-weight: 600;
+}
+.container-au {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 0fr 2fr;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.content-a-au {
+  grid-column-start: 1;
+}
+.content-b-au {
+  grid-column-start: 2;
+}
+.p-au {
+  padding: 0px 25px 20px 25px;
+  line-height: 30px;
+}
+.p-title-au {
+  font-size: 20px;
+  color: #71257f;
+  padding-left: 22px;
+}
+.content-img-au {
+  grid-column-start: 1;
+  grid-row-start: 2;
+  grid-column-end: 3;
+}
+.img-au {
+  width: 100%;
+  border-radius: 15px;
+}
+.msg-au {
+  background-color: #71257f;
+  color: white;
+  margin-bottom: 20px;
+}
+.msg-p-au {
+  line-height: 30px;
+  width: 94%;
+  text-align: center;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.msg-img {
+  object-fit: cover;
+  object-position: 100% 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  border-radius: 50%;
+  height: 200px;
+}
+.msg-img-caption {
+  text-align: center;
+  font-style: italic;
+  font-weight: 300;
+  margin: auto;
+}
+.msg-img-caption-status {
+  text-align: center;
+  font-weight: 300;
+  font-style: italic;
+  margin: auto;
+  padding-bottom: 15px;
+}
+.wewill-au {
+  width: 33.3%;
+  margin: 0 auto;
+  text-align: center;
+  height: 100%;
+}
+.wewill-img-au {
+  width: 300px;
+  height: 250px;
+}
+.wewill-p-au {
+  padding: 15px 15px 15px 30px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+}
