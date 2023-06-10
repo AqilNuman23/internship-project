@@ -2,7 +2,7 @@
 .primary-aboutUs {
   font-family: "Lexend Deca";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 300;
 }
 .container-au {
   display: grid;
@@ -25,6 +25,7 @@
   font-size: 20px;
   color: #71257f;
   padding-left: 22px;
+  font-weight: 400;
 }
 .content-img-au {
   grid-column-start: 1;
