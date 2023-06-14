@@ -4,7 +4,8 @@ I will post every project that I involve throughout my internship semester as We
 # live server
 [About Us v3](https://aqilnuman23.github.io/internship-project/hr-updateddesign/aboutus-v3/index.html) \
 [What We Do v3](https://aqilnuman23.github.io/internship-project/hr-updateddesign/whatwedo-v3/index.html) \
-[Contact Us v3](https://aqilnuman23.github.io/internship-project/hr-updateddesign/contactus-v3/index.html) 
+[Contact Us v3](https://aqilnuman23.github.io/internship-project/hr-updateddesign/contactus-v3/index.html) \
+[Legal site](https://aqilnuman23.github.io/internship-project/legal/legal-aboutus.html)
 
 # disclaimer
 Content may looks messy and imperfect because content width/height/resolution not same as the actual corporate server side that was made for.\
